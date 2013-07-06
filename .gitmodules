@@ -1,0 +1,3 @@
+[submodule "boiler"]
+	path = boiler
+	url = https://github.com/ikame/boiler-webapp2.git
